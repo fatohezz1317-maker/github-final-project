@@ -1,13 +1,6 @@
 # Contributing to Simple Interest Calculator
 
-Thank you for your interest in contributing to the **Simple Interest Calculator** project!
-
-We welcome all contributions, including:
-- **Bug reports**: Reporting unexpected behavior or errors.
-- **Bug fixes**: Resolving open issues or fixing defects.
-- **Documentation improvements**: Enhancing or clarifying the README and other documentation files.
-- **Enhancements**: Adding new features or improving existing functionality.
-- **Ideas & Suggestions**: Proposing ideas for architectural or workflow improvements.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ---
 

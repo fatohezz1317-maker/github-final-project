@@ -78,7 +78,7 @@ The simple interest is:
 ## Project Structure
 
 ```text
-mcino-Introduction-to-Git-and-GitHub/
+github-final-project/
 ├── .github/              # Issue and PR templates
 ├── CODE_OF_CONDUCT.md    # Contributor Covenant Code of Conduct
 ├── CONTRIBUTING.md       # Guidelines for contributors
